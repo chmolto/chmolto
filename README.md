@@ -12,7 +12,7 @@ In my free time I scratch my own itches: **local AI**, **games** and **home auto
 | ⚔️ | **[auction-trader](https://github.com/chmolto/auction-trader)** | Spots arbitrage opportunities in the World of Warcraft (WotLK) Auction House. |
 | 🌀 | **[mqtt-dyson-client](https://github.com/chmolto/mqtt-dyson-client)** | Control Dyson fans over MQTT, no server needed. |
 | ⛓️ | **[chain-indexer](https://github.com/chmolto/chain-indexer)** | Indexes on-chain token transfers: NestJS + React + PostgreSQL + Redis queues. |
-| 🧱 | **[nestjs-core](https://github.com/chmolto/nestjs-core)** | Reusable NestJS base layer for CRUD, pagination and filtering that I use across projects. |
+| 🧱 | **[nestjs-core](https://github.com/chmolto/nestjs-core)** · **[angular-core](https://github.com/chmolto/angular-core)** | My own npm packages: matching NestJS and Angular base layers for CRUD, pagination and filtering. |
 
 #### 🧰 Tech I use
 
