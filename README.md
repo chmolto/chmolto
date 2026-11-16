@@ -1,7 +1,7 @@
 ### Hi, I'm Christian 👋
 
 Fullstack developer from Spain 🇪🇸. By day I build web apps with **TypeScript** — Angular, NestJS, Next.js.
-In my free time I scratch my own itches: **local AI**, **games** and **home automation**. If a tool I want doesn't exist, I build it.
+In my free time I scratch my own itches: **local AI**, **games** and **home automation**. If a tool I want doesn't exist or its too expensive, I build it :)
 
 #### 🔨 Things I've built
 
