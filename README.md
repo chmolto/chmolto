@@ -25,4 +25,3 @@ In my free time I scratch my own itches: **local AI**, **games** and **home auto
 #### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chmolto/)
-[![Website](https://img.shields.io/badge/Website-chmolto.github.io-181717?logo=github&logoColor=white)](https://chmolto.github.io/)
